@@ -1,0 +1,44 @@
+--- Customer Database Export ---
+Date: 2026-05-26
+
+Customer Record: 001
+Name: Alice Johnson
+Email: alice.johnson@example.com
+Purchase History: 5 items
+Status: Active
+
+Customer Record: 002
+Name: Bob Smith
+Email: bsmith_92@dummymail.com
+Purchase History: 1 item
+Status: Inactive
+
+Customer Record: 003
+Name: Charlie Davis
+Email: cdavis_business@corp-mail.net
+Purchase History: 12 items
+Status: Active
+
+Customer Record: 004
+Name: Diana Prince
+Email: dprince.amazon@webmail.com
+Purchase History: 0 items
+Status: Pending
+
+Customer Record: 005
+Name: Evan Wright
+Email: e.wright.teach@schoolnet.edu
+Purchase History: 8 items
+Status: Active
+
+Customer Record: 006
+Name: Fiona Gallagher
+Email: fiona_g@fastmail.org
+Purchase History: 3 items
+Status: Active
+
+Customer Record: 007
+Name: George Harris
+Email: gharris123@personal.com
+Purchase History: 2 items
+Status: Inactive
