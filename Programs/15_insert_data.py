@@ -8,8 +8,7 @@ cursor = conn.cursor()
 
 # Insert data into the sales table
 cursor.execute(
-    '''INSERT INTO sales (order_id, date, time, name, size, type, price)
-        VALUES (
+    '''INSERT INTO sales (order_id, date, time, name, size, type, price) VALUES (
             '2015-000001',
             '1/1/2015',
             '11:38:36',
